@@ -1,4 +1,4 @@
-[debug] [hw12-build] Classpath dependencies List()
-[debug] [hw12-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'hw12-build' to '/Users/kalea/Documents/NYU/popl23/hw12/project/.bloop/hw12-build.json'
-[success] Generated .bloop/hw12-build.json
+[0m[[0m[0mdebug[0m] [0m[0m[jakartascript-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[jakartascript-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'jakartascript-build' to '/Users/kalea/Documents/NYU/popl23/jakartascript/project/.bloop/jakartascript-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/jakartascript-build.json[0m

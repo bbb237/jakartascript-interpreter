@@ -1,4 +1,4 @@
-name := "hw12"
+name := "jakartascript"
 
 version := "5.0"
 
